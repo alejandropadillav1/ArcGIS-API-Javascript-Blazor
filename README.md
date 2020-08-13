@@ -1,4 +1,4 @@
-# ArcGIS-API-Javascript-Blazor
+# ArcGIS API Javascript Blazor
 
 Interoperatibility ArcGIS API Javascript - Esri with Microsoft Blazor.
 
