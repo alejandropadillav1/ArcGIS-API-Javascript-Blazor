@@ -1,3 +1,6 @@
 # ArcGIS-API-Javascript-Blazor
 
-Interoperatibilidad de ArcGIS API Javascript - Esri con Microsoft Blazor.
+Interoperatibility ArcGIS API Javascript - Esri with Microsoft Blazor.
+
+Youtube video (Step to step) https://youtu.be/7OtKdhPuiqg (Only Spanish)
+
