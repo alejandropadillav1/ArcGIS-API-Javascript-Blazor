@@ -1,0 +1,19 @@
+﻿@page "/"
+@inject IJSRuntime JSRuntime
+
+
+<h1>Hola Mundo, ArcGIS Javascript Blazor</h1>
+
+<div id="viewDiv"></div>
+
+@code
+{
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if(firstRender)
+        {
+            await JSRuntime.InvokeVoidAsync("RenderMapa", null);
+        }
+    }
+}
+
